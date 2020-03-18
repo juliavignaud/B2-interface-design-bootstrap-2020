@@ -1,0 +1,45 @@
+* {
+  font-family:'Roboto', sans-serif;
+}
+
+.mb-5 {
+  background-color: #F37D3E;
+}
+
+.nav-link {
+  color: #fff;
+}
+
+.nav-link:hover {
+  color: #3D3734;
+}
+
+.navbar-brand {
+  color: #fff;
+}
+
+.navbar-brand:hover {
+  color: #3D3734;
+}
+
+h1 {
+  color: #3D3734;
+}
+
+h5 {
+  font-weight: bold;
+}
+
+.card {
+  border-color: #3D3734;
+  color: #3D3734;
+}
+
+#button {
+  background-color: #F37D3E;
+  border-color: #D97844;
+}
+
+#button:hover {
+  background-color: #D1530F;
+}
