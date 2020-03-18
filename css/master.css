@@ -1,15 +1,27 @@
 .nav-link {
   color: #673AB7;
+  text-transform: uppercase;
+  font-weight: bold;
 }
 
 .nav-link:hover {
   color: #3D3734;
 }
 
-.navbar-brand {
-  color: #fff;
+h1 {
+  text-transform: uppercase;
+  color: #673AB7;
+  font-weight: bold;
 }
 
-.navbar-brand:hover {
-  color: #3D3734;
+.text-primary {
+  color: #673AB7 !important;
+  font-weight: bold;
+}
+
+.btn {
+  color: #fff;
+  text-transform: uppercase;
+  font-size: medium;
+  box-shadow: 2px 2px 3px grey;
 }
